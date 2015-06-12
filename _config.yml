@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://joelrdz.com/
+url: /
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: tranquilpeak
 
 # Disqus
 disqus_shortname: joelrdzdevnotes
@@ -73,3 +73,15 @@ disqus_shortname: joelrdzdevnotes
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Archives (Style of listing archives, from Tranquilpeak Theme)
+## 1: Enable pagination
+## 0: Disable pagination
+archive: 1
+category: 1
+tag: 1
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: false
