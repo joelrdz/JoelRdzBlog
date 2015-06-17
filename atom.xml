@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[Joel Rdz]]></title>
+  <subtitle><![CDATA[My Personal Blog]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="//"/>
+  <updated>2015-06-17T05:59:04.000Z</updated>
+  <id>//</id>
+  
+  <author>
+    <name><![CDATA[Joel Rdz]]></name>
+    <email><![CDATA[iam@joelrdz.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[postmenso]]></title>
+    <link href="/2015/06/postmenso/"/>
+    <id>/2015/06/postmenso/</id>
+    <published>2015-06-17T05:59:04.000Z</published>
+    <updated>2015-06-17T05:59:04.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+</feed>
