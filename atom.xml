@@ -5,7 +5,7 @@
   <subtitle><![CDATA[My Personal Blog]]></subtitle>
   <link href="/JoelRdzBlog/atom.xml" rel="self"/>
   <link href="http://joelrdz.github.io/JoelRdzBlog/JoelRdzBlog//"/>
-  <updated>2015-06-17T06:23:52.000Z</updated>
+  <updated>2015-06-17T05:59:04.000Z</updated>
   <id>http://joelrdz.github.io/JoelRdzBlog/JoelRdzBlog//</id>
   
   <author>
@@ -14,24 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[postmenso2]]></title>
-    <link href="http://joelrdz.github.io/JoelRdzBlog/JoelRdzBlog/2015/06/postmenso2/"/>
-    <id>http://joelrdz.github.io/JoelRdzBlog/JoelRdzBlog/2015/06/postmenso2/</id>
-    <published>2015-06-17T06:23:25.000Z</published>
-    <updated>2015-06-17T06:23:52.000Z</updated>
-    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint facilis temporibus voluptas quam rem commodi veniam suscipit, quas doloribus provident consequatur quasi voluptate, veritatis laudantium minima, modi rerum. Quae, sapiente.</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint facilis temporibus voluptas quam rem commodi veniam suscipit, quas dolorib]]>
-    </summary>
-    
-      <category term="holis" scheme="http://joelrdz.github.io/JoelRdzBlog/JoelRdzBlog/tags/holis/"/>
-    
-      <category term="Dev" scheme="http://joelrdz.github.io/JoelRdzBlog/JoelRdzBlog/categories/Dev/"/>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[postmenso]]></title>
